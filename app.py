@@ -11,7 +11,7 @@ import unicodedata
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-# ============================================
+# ===========================================
 # CARREGAR VARIÁVEIS DO ARQUIVO .env
 # ============================================
 # Lê o arquivo .env (se existir) e joga as variáveis dentro de
